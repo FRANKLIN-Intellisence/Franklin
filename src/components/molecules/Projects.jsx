@@ -30,7 +30,7 @@ const Projects = () => {
                 </div>
                 <div className='flex flex-col items-center gap-8 md:grid grid-cols-2 lg:gap-[3rem] lg:justify-between w-full'>
                     <ProjectsCardTwo title="HUDDLE" link="https://huddle-six-sand.vercel.app/" image={HUDDLE}/>
-                    <ProjectsCardOne title="PORTFOLIO" link="https://github.com/FRANKLIN-Intellisence" image={Portfolio} />
+                    <ProjectsCardOne title="PORTFOLIO" link="https://franklin-seven.vercel.app/" image={Portfolio} />
                 </div>
             </div>
         </div>
